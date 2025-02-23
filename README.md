@@ -9,6 +9,13 @@ This Python script detects and counts domino dots in real-time using a camera fe
 - Displays the current and maximum detected dots.
 - Rotates the camera feed for correct visualization.
 
+## Screenshots
+
+<img src="assets/sample1.png" alt="sample1" width="400"/>
+<img src="assets/sample2.png" alt="sample1" width="400"/>
+
+
+
 ## Requirements
 Make sure you have Python installed along with the following dependencies:
 
